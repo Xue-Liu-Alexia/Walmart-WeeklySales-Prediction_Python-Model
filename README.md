@@ -3,11 +3,8 @@ Walmart Inc. is an American multinational retail corporation that operates a cha
 
 # Table of Contents
 1. Notebook:
-- [Walmart Sales Prediction Model.ipynb](https://github.com/Xue-Liu-Alexia/DataAnalysis-AfterCleaning_Python/blob/main/DataAnalysis_PythonReport.ipynb)
+- [Walmart Sales Prediction Model.ipynb](https://github.com/Xue-Liu-Alexia/Walmart_WeeklySales_Prediction_Model/blob/main/Walmart%20Sales%20Prediction%20Model.ipynb)
 2. Documentation:
--  [Presentation](https://github.com/Xue-Liu-Alexia/DataAnalysis-AfterCleaning_Python/blob/main/DataAnalysis_Presentation.pptx)
--  [Project Tasks](https://github.com/Xue-Liu-Alexia/DataAnalysis-AfterCleaning_Python/blob/main/Python%20Projects%20Tasks.doc)
+-  [Presentation](https://github.com/Xue-Liu-Alexia/Walmart_WeeklySales_Prediction_Model/blob/main/Walmart%20Weekly%20Sales%20Prediction.pptx)
 3. Data Sets:
-- [EnergyIndicators.xls](https://github.com/Xue-Liu-Alexia/DataAnalysis-AfterCleaning_Python/blob/main/EnergyIndicators.xls)
-- [world_bank.csv](https://github.com/Xue-Liu-Alexia/DataAnalysis-AfterCleaning_Python/blob/main/world_bank.csv)
-- [scimagojr-3.xlsx](https://github.com/Xue-Liu-Alexia/DataAnalysis-AfterCleaning_Python/blob/main/scimagojr-3.xlsx)
+- [walmart-sales-dataset-of-45stores.csv](https://github.com/Xue-Liu-Alexia/Walmart_WeeklySales_Prediction_Model/blob/main/walmart-sales-dataset-of-45stores.csv)
